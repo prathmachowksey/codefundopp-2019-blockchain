@@ -1,7 +1,7 @@
 # codefundopp-2019-blockchain
 - Team: #ed_anarchists
 - College: BITS Pilani Hyderabad Campus
-- Team Members:Dhruvikaa Ahuja,Hasnain Zeenwala,Prathma Chowksey
+- Team Members: Dhruvikaa Ahuja,Hasnain Zeenwala,Prathma Chowksey
  
 
 ## Problem Statement
