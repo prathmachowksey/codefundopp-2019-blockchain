@@ -1,4 +1,10 @@
 # codefundopp-2019-blockchain
+Team: #ed_anarchists
+College: BITS Pilani Hyderabad Campus
+Team Members: Dhruvikaa Ahuja
+              Hasnain Zeenwala
+              Prathma Chowksey
+ 
 
 ## Problem Statement
 Elections, referenda, and polls are very important processes & tools for the smooth operation of a modern democracy. Build a Proof-of-Concept to demonstrate how you can make these processes more secure, reliable, and transparent using Azure Blockchain.
